@@ -9,10 +9,11 @@ body {
     line-height: 32px;
     font-family: Ubuntu, sans-serif;
     color: darkgreen/* #xxxxxx */;
+    background-color: darkgreen;
 }
 
 h1 {
-    font-size: 22/* x.xrem  (rem is a unit of measure) */;
+    font-size: 30/* x.xrem  (rem is a unit of measure) */;
     color: antiquewhite/* #xxxxxx */;
 }
 
