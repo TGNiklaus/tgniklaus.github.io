@@ -40,6 +40,11 @@ header img {
     float: right;
 }
 
+li {
+    color: antiquewhite;
+}
+
 footer {
     font-size: 12px;
+    color: antiquewhite;
 }
