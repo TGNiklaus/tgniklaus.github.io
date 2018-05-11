@@ -36,6 +36,7 @@ header img {
     width: 800;
     height: auto;
     float: right;
+    border: 1px solid black;
 }
 
 footer {
