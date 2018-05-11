@@ -9,8 +9,7 @@ body {
     line-height: 32px;
     font-family: Garamond, serif;
     color: antiquewhite;
-    background-color: darkgreen;
-}
+    }
 
 h1 {
     font-size: 30px;
@@ -27,6 +26,7 @@ header, main, footer {
     margin: 1.25rem auto;
     padding: .5rem;
     max-width: 800px;
+    background-color: darkgreen;
 }
 
 header, footer, footer a {
