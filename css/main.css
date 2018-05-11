@@ -26,12 +26,11 @@ header, main, footer {
     margin: 1.25rem auto;
     padding: .5rem;
     max-width: 800px;
-    background-color: darkgreen;
+    color: darkgreen;
 }
 
 header, footer, footer a {
     text-align: center;
-    background-color: darkgreen;
     }
 
 header img {
