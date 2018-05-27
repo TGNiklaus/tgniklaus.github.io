@@ -12,6 +12,8 @@ header, nav, main, footer { /* the comma between the selectors means apply the f
     max-width: ______; /* Declare the maximum width and other main element rules to limit the stretch on larger/wider views */
 }
 
+section.forecast { display:none}
+
 header {}
 header h1 {}
 header img {}
