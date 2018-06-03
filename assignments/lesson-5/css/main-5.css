@@ -19,10 +19,20 @@ header .subheading {}
 
 nav {}
 nav button {}
-nav ul {}
-nav ul li {}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+nav ul li {
+    float: left;
+}
 nav ul li a {}
-nav ul li.active a {}
+nav ul li.active a {
+    background-color: goldenrod;
+    color: black;
+}
 nav ul li a:hover {}
 
 main {}
