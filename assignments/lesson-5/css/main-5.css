@@ -27,8 +27,13 @@ nav ul {
 }
 nav ul li {
     float: left;
+    border-right: 1px solid white;
 }
-nav ul li a {}
+nav ul li a {
+    display: block;
+    padding: 8px;
+    background-color: darkgreen;
+}
 nav ul li.active a {
     background-color: goldenrod;
     color: black;
