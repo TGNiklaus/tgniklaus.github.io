@@ -17,7 +17,7 @@ header h1 {}
 header img {}
 header .subheading {}
 
-nav {}
+nav {display:none}
 nav button {
     display:block;
 }
