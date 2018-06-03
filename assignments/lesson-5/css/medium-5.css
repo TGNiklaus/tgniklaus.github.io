@@ -4,6 +4,7 @@
 
     nav button { display:none; }  /* hamburger button does not need to be shown in the medium on up views */
 
+<<<<<<< HEAD
     section.forecast { ______ }  /* show the 10-day forecast with the medium view and up */
 
 }
@@ -12,4 +13,27 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+=======
+    section.forecast { display:inline-block}  /* show the 10-day forecast with the medium view and up */
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    li {
+        display: inline;
+    }
+
+    .active {
+        background-color: #4CAF50;
+        color: white;
+    }
+
+    li a:hover {
+        background-color: #111;
+    }
+
+>>>>>>> da03647ce78a552ea6f00a1b5b229aaa786558dc
 }

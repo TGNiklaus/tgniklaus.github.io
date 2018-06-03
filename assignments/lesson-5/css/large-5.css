@@ -1,4 +1,26 @@
 @media only screen and (min-width: 64em) {
 
+<<<<<<< HEAD
+=======
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    li {
+        display: inline;
+    }
+
+    .active {
+        background-color: #4CAF50;
+        color: white;
+    }
+
+    li a:hover {
+        background-color: #111;
+    }
+
+>>>>>>> da03647ce78a552ea6f00a1b5b229aaa786558dc
 
 }

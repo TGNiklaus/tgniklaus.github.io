@@ -9,16 +9,28 @@ body {
 }
 
 header, nav, main, footer { /* the comma between the selectors means apply the following CSS declarations to all of the listed elements */
+<<<<<<< HEAD
     max-width: ______; /* Declare the maximum width and other main element rules to limit the stretch on larger/wider views */
 }
 
+=======
+    max-width: 600px; /* Declare the maximum width and other main element rules to limit the stretch on larger/wider views */
+}
+
+section.forecast { display:none}
+
+>>>>>>> da03647ce78a552ea6f00a1b5b229aaa786558dc
 header {}
 header h1 {}
 header img {}
 header .subheading {}
 
 nav {}
+<<<<<<< HEAD
 nav button {}
+=======
+nav button {display:block}
+>>>>>>> da03647ce78a552ea6f00a1b5b229aaa786558dc
 nav ul {}
 nav ul li {}
 nav ul li a {}
