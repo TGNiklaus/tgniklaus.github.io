@@ -35,6 +35,7 @@ nav ul li a {
     display: block;
     padding: 8px;
     background-color: darkgreen;
+    color: white;
 }
 nav ul li.active a {
     background-color: goldenrod;

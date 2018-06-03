@@ -8,33 +8,6 @@
 
 }
 
-nav {
-    display:inline-block;
-}
-
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    color: white;
-}
-nav ul li {
-    float: left;
-    border-right: 1px solid white;
-}
-nav ul li a {
-    display: block;
-    padding: 8px;
-    background-color: darkgreen;
-}
-nav ul li.active a {
-    background-color: goldenrod;
-    color: black;
-}
-nav ul li a:hover {
-    background-color: goldenrod;
-    color: black;
-}
 
 
 
